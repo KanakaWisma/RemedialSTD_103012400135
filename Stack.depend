@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1767428077 source:c:\users\loq\documents\tugas_telkom\sem 3\strukdat\remedial\stack\main.cpp
+	<iostream>
+	"stack.h"
+
+1767428173 c:\users\loq\documents\tugas_telkom\sem 3\strukdat\remedial\stack\stack.h
+	<string>
+
+1767428314 source:c:\users\loq\documents\tugas_telkom\sem 3\strukdat\remedial\stack\stack.cpp
+	"stack.h"
+
